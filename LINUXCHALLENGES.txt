@@ -1,0 +1,144 @@
+52	 pwd
+53	 mkdir workspace
+54	 cd
+55	 ls
+56	 cd workspace
+57	 touch README.md
+58	 ls
+59	 cp README.md CHANGELOG.md
+60	 ls
+61	 touch exercise.md
+62	 mv exercise.md /tmp
+63	 ls
+64	 touch umuzi.md recruits.md cohort.md
+65	 ls
+66	 locate
+67	 locate cohort.md
+68	 ls
+69	 cd cohort.md
+70	 ls
+71	 cohort
+72	 ls -F
+73	 cd Desktop
+74	 ls -F /tmp
+75	 rm -f /tmp/exercise.md
+76	 ls -f
+77	 ls -F /tmp
+78	 ls
+79	 ls -f /tmp/ touch ghf.md
+80	 mkdir  test
+81	 ls -f > /tmp/ touch ghf.md
+82	 ls -f > /tmp/touch ghf.md
+83	 ls -f > /tmp/$touch ghf.md
+84	 ls -f > /tmp/ghf.md
+85	 ls -f /tmp
+86	 ls -F /tmp
+87	 rm -f /tmp/ghf.md
+88	 ls
+89	 ls -F
+90	 cat >> README.md 
+91	 cat >> cohort.md 
+92	 cat >> recruits.md 
+93	 cat >> umuzi.md 
+94	 cat umuzi.md 
+95	 cat X  
+96	 cat X*>ls.md
+97	 cat X* >ls.md
+98	 cat cohort.md umuzi.md recruits.md 
+99	 locate /tmp
+100	 locate .pdf
+101	 locate .pdf<gz
+102	 cat cohort.md umuzi.md recruits.md 
+103	 cat cohort.md umuzi.md recruits.md > summary.md
+104	 ls
+105	 cat summary.md 
+106	 echo "The End" >> summary.md 
+107	 ls
+108	 cat summary.md 
+109	 locate umuzi
+110	 locate /umuzi
+111	 locate .umuzi
+112	 locate .md
+113	 poweroff
+114	 cd
+115	 ped
+116	 pwd
+117	 ls
+118	 cd /workspace
+119	 cd workspace
+120	 ls-ltr
+121	 ls -l
+122	 ls -l | tee log.md
+123	 ls-l
+124	 ls -l
+125	 cat log.md
+126	 rm log.md
+127	 ls -l
+128	 chmod
+129	 man ch
+130	 CD
+131	 cd
+132	 pwd
+133	 ls
+134	 cd workspace/
+135	 ls
+136	 man locate
+137	 locate umuzi
+138	 locate umuzi | tee search_result.md
+139	 ls
+140	 ls -l
+141	 locate umuzi | tee search_result.md
+142	 echo "this file" | tee test.md
+143	 ls -l
+144	 rm test.md 
+145	 ls -l
+146	 cd /Documents
+147	 cd Documents/
+148	 cd ..
+149	 ls
+150	 cd workspace/
+151	 cd ../Documents/
+152	 ls -l
+153	 cd ../Desktop/
+154	 touch work
+155	 ls -l
+156	 rm work
+157	 ls -l
+158	 mkdir work
+159	 ls -l
+160	 ls
+161	 cp ../Document/pad.md pad_copy.md 
+162	 cp ../Documents/pad.md pad_copy.md 
+163	 ls
+164	 locate updatedb
+165	 cd -
+166	 locate pad_copy.md
+167	 find .pdf
+168	 find "pdf"
+169	 locate .pdf
+170	 locate .pdf | tee | mkdir my_choice
+171	 ls -l
+172	 ls -ltr
+173	 whoami
+174	 find -mtime -1 -print
+175	 nano
+176	 ls
+177	 cd Documents/
+178	 nano
+179	 nano my_bio.md
+180	 ls
+181	 nano my_bio.md
+182	 ls
+183	 clear
+184	 ls
+185	 rm nano.save nano.save.1 
+186	 ls
+187	 nano my_bio.md
+188	 ls
+189	 nano my_bio.md
+190	 ls
+191	 mkdir my_flies
+192	 mv my_bio.md >my_flies/
+193	 mv my_bio.md my_flies/
+194	 ls
+195	 cd my_flies/
